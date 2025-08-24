@@ -234,6 +234,16 @@ overflow-y:hidden;
 }
 
 
+.product-name2 {
+    font-size: 12px;
+    font-weight: 400;
+    color: #1d1d1f;
+    margin-top: 8px;
+    line-height: 1.33337;
+ 
+
+}
+
 
 
 .product-card {
@@ -246,7 +256,7 @@ overflow-y:hidden;
 
 
 
-.product-images {
+.product-images2 {
 
     margin: 0 auto 16px;
     background: rgba(255, 255, 255, 0.8);
